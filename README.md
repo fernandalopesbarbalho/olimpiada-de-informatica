@@ -30,3 +30,9 @@ Programa que recebe um valor qualquer e apresenta uma mensagem dizendo em qual d
 
 ## Imposto de Renda 
 Programa que recebe um valor com duas casas decimais, equivalente ao salário de uma pessoa e calcula o valor que esta pessoa deve pagar de Imposto de Renda, sendo que de 0.00 até 2000.00 é isento, de 2000.01 até 3000.00 a taxa é de 8%, de 3000.01 até 4500.00 a taxa é de 18% e acima de 4500.00 a taxa é de 28%. 
+
+## Peça Perdida
+Exercício da OBI [Peça Perdida](https://olimpiada.ic.unicamp.br/pratique/p1/2007/f1/perdida/): programa que recebe um número inteiro referente a quantidade de peças de um quebra-cabeças e o numeração de cada peça na sequência, imprimindo o número referente à peça que falta.
+
+## Cartas
+Exercício da OBI [Cartas](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/): programa que recebe 5 números inteiros e verifica se estão em ordem crescente (imprimindo "C"), descrescente (imprimindo "D") ou fora de ordem (imprimindo "N").
