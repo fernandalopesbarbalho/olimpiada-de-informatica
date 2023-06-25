@@ -36,3 +36,6 @@ Exercício da OBI [Peça Perdida](https://olimpiada.ic.unicamp.br/pratique/p1/20
 
 ## Cartas
 Exercício da OBI [Cartas](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/): programa que recebe 5 números inteiros e verifica se estão em ordem crescente (imprimindo "C"), descrescente (imprimindo "D") ou fora de ordem (imprimindo "N").
+
+## Contas
+Exercício da OBI [Contas a Pagar](https://olimpiada.ic.unicamp.br/resultados/fase1/programacao/cadernos/): programa que recebe um número inteiro referente ao saldo disponível de uma pessoa e também o valor de três contas a pagar, imprimindo o maior número de contas que é possível realizar o pagamento.
