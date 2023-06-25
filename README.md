@@ -1,5 +1,5 @@
 # Olimpíada Brasileira de Informática
-Exercícios de treinamento para a Olímpiada Brasileira de Informática (OBI) em Python.
+Exercícios de treinamento realizados em Python para a Olímpiada Brasileira de Informática (OBI).
 
 ## Soma 
 Programa que recebe 2 números inteiros e apresenta sua soma.
