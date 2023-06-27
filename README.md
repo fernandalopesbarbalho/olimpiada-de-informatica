@@ -1,4 +1,4 @@
-# Olimpíada Brasileira de Informática
+# Olimpíada Brasileira de Informática em Python
 Exercícios de treinamento realizados em Python para a Olímpiada Brasileira de Informática (OBI).
 
 ## Soma 
