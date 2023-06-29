@@ -35,7 +35,10 @@ Programa que recebe um valor com duas casas decimais, equivalente ao salário de
 Exercício da OBI [Peça Perdida](https://olimpiada.ic.unicamp.br/pratique/p1/2007/f1/perdida/): programa que recebe um número inteiro referente a quantidade de peças de um quebra-cabeças e o numeração de cada peça na sequência, imprimindo o número referente à peça que falta.
 
 ## Cartas
-Exercício da OBI [Cartas](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/): programa que recebe 5 números inteiros e verifica se estão em ordem crescente (imprimindo "C"), descrescente (imprimindo "D") ou fora de ordem (imprimindo "N").
+Exercício da OBI [Cartas](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/): programa que recebe 5 números inteiros e verifica se estão em ordem crescente (imprimindo 'C'), descrescente (imprimindo 'D') ou fora de ordem (imprimindo 'N').
 
 ## Contas
 Exercício da OBI [Contas a Pagar](https://olimpiada.ic.unicamp.br/resultados/fase1/programacao/cadernos/): programa que recebe um número inteiro referente ao saldo disponível de uma pessoa e também o valor de três contas a pagar, imprimindo o maior número de contas que é possível realizar o pagamento.
+
+## Basquete
+Exercício da OBI [Basquete de Rôbos](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f1/basquete/): programa que recebe uma distância e imprime '1' se a distância for menor ou igual a 800, '2' se for entre 801 e 1400, ou '3' se for entre 1401 e 2000.
